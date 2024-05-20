@@ -1,0 +1,40 @@
+*,*::before,*::after{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'roboto',sans-serif;
+    margin:0;
+    font-size:1.3rem ;
+}
+   
+.example{
+    width:90%;
+    margin:5em auto;
+    padding:10em 0 ;
+    background-color: lightblue;
+    background-color: purple;
+}
+
+
+/* Media queries always be given in a order of incereasing screen size */
+
+/*screen size larger than 600px*/
+@media (min-width:600px) {
+    .example{
+        background-color: steelblue;
+    }
+}
+
+/* size 800px and greater */
+@media (min-width:800px){
+    .example{background-color: orangered;}
+}
+
+
+/*screen size smaller than 600px*/
+@media(max-width:600px){
+    .example{
+        background-color: yellow;
+    }
+}
