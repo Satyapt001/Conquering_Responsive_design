@@ -6,8 +6,8 @@ DAY_01: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/
 
 ***
 DAY_03: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/8d3f0cd9153c1fa9735bcc9eeac6c3e54016832d/challenges/day_03/challenge02)
-(![challenge 02](https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/b96cfb70-f9a3-4e0e-a02c-2a46cbed7dad)
-)
+![challenge 02](https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/b96cfb70-f9a3-4e0e-a02c-2a46cbed7dad)
+
 ***
 DAY_05: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/8d3f0cd9153c1fa9735bcc9eeac6c3e54016832d/challenges/day_05/challenge%2003/solution)
 ![challenge 03](https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/ddf21c7b-d1a1-4741-bcd7-05c6920ce354)
@@ -17,7 +17,7 @@ DAY_08:[click here](https://github.com/Satyapt001/Conquering_Responsive_design/t
 
 ***
 DAY_09: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/8d3f0cd9153c1fa9735bcc9eeac6c3e54016832d/challenges/day_09/solution)
-(![Screenshot (49)](https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/a40ea5a4-16a7-460d-b9d2-9bfb147002c5)
+![Screenshot (49)](https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/a40ea5a4-16a7-460d-b9d2-9bfb147002c5)
 
 ***
 DAY_11: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/8d3f0cd9153c1fa9735bcc9eeac6c3e54016832d/challenges/day_11)
@@ -27,7 +27,7 @@ DAY_11: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/
 ***
 DAY_12: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/8d3f0cd9153c1fa9735bcc9eeac6c3e54016832d/challenges/day_12/solution)
 
-![preview](
+(
 
 https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/73065bd5-c8e7-479b-aa6c-a2f74a95507f
 
