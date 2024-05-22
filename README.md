@@ -2,7 +2,7 @@ It contains all the files of the challenges ,task,examples that are carried out 
 
 ***
 DAY_01: [click here]([https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/ba5acd09-665c-45f5-9cbd-7c63f20efa23](https://github.com/Satyapt001/Conquering_Responsive_design/tree/fda838fe812a2bb6d9d319f2c4f56fe8ab47c785/challenges/day_01/challenge01))
-![challenge 1]![challenge 1](https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/68199df5-3950-43c4-845b-976fde056759)
+![challenge 1](https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/68199df5-3950-43c4-845b-976fde056759)
 
 ***
 DAY_03: [click here]([https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/8176b17a-8cc7-4bd5-88d0-11d6ad265915](https://github.com/Satyapt001/Conquering_Responsive_design/tree/fda838fe812a2bb6d9d319f2c4f56fe8ab47c785/challenges/day_03/challenge02))
