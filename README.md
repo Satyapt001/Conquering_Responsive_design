@@ -26,7 +26,7 @@ DAY_11: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/
 
 ***
 DAY_12: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/8d3f0cd9153c1fa9735bcc9eeac6c3e54016832d/challenges/day_12/solution)
-![Screenshot (59)]([https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/ef3289bf-db41-41d0-8818-be7f97448f7d](https://github.com/Satyapt001/Conquering_Responsive_design/tree/fda838fe812a2bb6d9d319f2c4f56fe8ab47c785/challenges/day_12/solution)) 
+
 ![preview](
 
 https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/73065bd5-c8e7-479b-aa6c-a2f74a95507f
