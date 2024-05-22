@@ -2,10 +2,12 @@ It contains all the files of the challenges ,task,examples that are carried out 
 
 ***
 DAY_01: [click here]([https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/ba5acd09-665c-45f5-9cbd-7c63f20efa23](https://github.com/Satyapt001/Conquering_Responsive_design/tree/fda838fe812a2bb6d9d319f2c4f56fe8ab47c785/challenges/day_01/challenge01))
-![challenge 1]()
+![challenge 1]![challenge 1](https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/68199df5-3950-43c4-845b-976fde056759)
+
 ***
 DAY_03: [click here]([https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/8176b17a-8cc7-4bd5-88d0-11d6ad265915](https://github.com/Satyapt001/Conquering_Responsive_design/tree/fda838fe812a2bb6d9d319f2c4f56fe8ab47c785/challenges/day_03/challenge02))
-![challenge 02]()
+(![challenge 02](https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/b96cfb70-f9a3-4e0e-a02c-2a46cbed7dad)
+)
 ***
 DAY_05: [click here]([https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/9463f792-e98d-47cc-8e16-a5351235222d](https://github.com/Satyapt001/Conquering_Responsive_design/tree/fda838fe812a2bb6d9d319f2c4f56fe8ab47c785/challenges/day_05/challenge%2003/solution))
 ![challenge 03](https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/ddf21c7b-d1a1-4741-bcd7-05c6920ce354)
