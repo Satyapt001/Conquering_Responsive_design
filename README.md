@@ -32,5 +32,9 @@ https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/7306
 ***
 
 Day_18:[click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/96e85323f5207a2c407631838c3f4613b9f005ab/Day_18/solution_flexbox_challegne%2304)
-
+On Day 18 the solution to the flex box challenge #04 is here by kevin powell the above link contains files.note: the second section heading needs alignment in the center which was not mentioned in the course so do it by ownself.
+add the below code to the css:
+.section-title{
+text-align:center;
+}
 ***
