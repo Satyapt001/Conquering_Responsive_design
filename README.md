@@ -30,5 +30,5 @@ DAY_12: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/
 
 
 https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/73065bd5-c8e7-479b-aa6c-a2f74a95507f
-
+Day_18:[click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/96e85323f5207a2c407631838c3f4613b9f005ab/Day_18/solution_flexbox_challegne%2304)
 ***
