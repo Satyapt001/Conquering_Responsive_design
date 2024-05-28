@@ -41,7 +41,7 @@ add the below code to the css:
 text-align:center;
 }
 ***
-Day_20:![click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/7f799632256543335b976ced8668d2dd7f5e9574/Day_20)
+Day_20: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/7f799632256543335b976ced8668d2dd7f5e9574/Day_20)
 
 ![Screenshot (64)](https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/15f7d2d1-6435-472c-85f7-2eeecafb98e0)
 
