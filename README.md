@@ -45,7 +45,8 @@ Day_20: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/
 
 ![Screenshot (64)](https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/15f7d2d1-6435-472c-85f7-2eeecafb98e0)
 
-<h6>converted to dropdown menu forsmartphones and smallscreen size</h4>
+<h6>converted to dropdown menu for smartphones and devices with smallscreen size <br>as compare to monitor screen <strong> using media queries</strong></h6>
+
 
 ![Screenshot (65)](https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/47b179f7-3951-4a96-b6fa-9f64127b2f86)
 
