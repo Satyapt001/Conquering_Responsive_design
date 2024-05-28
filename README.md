@@ -1,4 +1,7 @@
-It contains all the files of the challenges ,task,examples that are carried out in the course conquering responsive design by kevin powell this repo  is "Updating".
+<h1>conquering responsive design/help</h1>
+<h3>!Disclaimer</h3>
+<h6>This repository holds the solution which can be used if you are stuck at somepoint don't copy it directly and paste the answer to the challenges.The owner repo is not responsible for any error.use the solution responsible</h6> 
+<p>-It contains all the files of the challenges ,task,examples that are carried out in the course conquering responsive design by kevin powell this repo  is "Updating".</p>
 
 ***
 DAY_01: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/8d3f0cd9153c1fa9735bcc9eeac6c3e54016832d/challenges/day_01/challenge01)
@@ -37,4 +40,9 @@ add the below code to the css:
 .section-title{
 text-align:center;
 }
+***
+Day_20:![click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/7f799632256543335b976ced8668d2dd7f5e9574/Day_20)
+
+![Screenshot (64)](https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/15f7d2d1-6435-472c-85f7-2eeecafb98e0)
+
 ***
