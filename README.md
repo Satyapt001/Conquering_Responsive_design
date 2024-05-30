@@ -52,3 +52,9 @@ Day_20: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/
 
 
 ***
+Day_21:[click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/76f0b45a5ef824240fb1e81c9f6b0949e034c4ff/challenges/day_21/solution)
+
+![final_challenge-ezgif com-video-to-gif-converter](https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/ab270043-89fb-4e82-8a92-c21000191587)
+
+
+***
