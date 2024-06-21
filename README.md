@@ -1,8 +1,10 @@
 <h1>conquering responsive design--help! </h1>
 <h3>🔔Disclaimer</h3>
-<h6>This repository holds the solution which can be used if you are stuck at somepoint don't copy it directly and paste the answer to the challenges.The owner is not responsible for any error.use solution  with concern</h6>
+<p>This repository holds the solution which can be used if you are stuck at somepoint don't copy it directly and paste the answer to the challenges.The owner is not responsible for any error.use solution  with concern</p>
 
-***
+*** 
+
+<h5>And</h5>
 <strong><p>It contains all the files of the challenges ,task,examples that are carried out in the course conquering responsive design by kevin powell.</p></strong>
 
 ***
