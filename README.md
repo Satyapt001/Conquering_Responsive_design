@@ -1,7 +1,8 @@
 <h1>conquering responsive design--help! </h1>
 <h3>🔔Disclaimer</h3>
 <h6>This repository holds the solution which can be used if you are stuck at somepoint don't copy it directly and paste the answer to the challenges.The owner is not responsible for any error.use solution  with concern</h6> 
-<p>*It contains all the files of the challenges ,task,examples that are carried out in the course conquering responsive design by kevin powell.</p>
+***
+<strong><p>It contains all the files of the challenges ,task,examples that are carried out in the course conquering responsive design by kevin powell.</p></strong>
 
 ***
 DAY_01: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/8d3f0cd9153c1fa9735bcc9eeac6c3e54016832d/challenges/day_01/challenge01)
