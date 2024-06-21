@@ -1,7 +1,7 @@
 <h1>conquering responsive design / help! </h1>
 <h3>!Disclaimer</h3>
-<h6>This repository holds the solution which can be used if you are stuck at somepoint don't copy it directly and paste the answer to the challenges.The owner is not responsible for any error.use the solution responsible</h6> 
-<p>*It contains all the files of the challenges ,task,examples that are carried out in the course conquering responsive design by kevin powell this repo  is "Updating".</p>
+<h6>This repository holds the solution which can be used if you are stuck at somepoint don't copy it directly and paste the answer to the challenges.The owner is not responsible for any error.use solution  with concern</h6> 
+<p>*It contains all the files of the challenges ,task,examples that are carried out in the course conquering responsive design by kevin powell.</p>
 
 ***
 DAY_01: [click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/8d3f0cd9153c1fa9735bcc9eeac6c3e54016832d/challenges/day_01/challenge01)
@@ -36,7 +36,7 @@ https://github.com/Satyapt001/Conquering_Responsive_design/assets/126075100/7306
 
 Day_18:[click here](https://github.com/Satyapt001/Conquering_Responsive_design/tree/96e85323f5207a2c407631838c3f4613b9f005ab/Day_18/solution_flexbox_challegne%2304)
 On Day 18 the solution to the flex box challenge #04 is here by kevin powell the above link contains files.note: the second section heading needs alignment in the center which was not mentioned in the course so do it by ownself.
-add the below code to the css:
+add the below code to the css:<br> 
 .section-title{
 text-align:center;
 }
