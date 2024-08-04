@@ -1,4 +1,4 @@
-<h1>conquering responsive design--help! </h1>
+<h1>conquering responsive design--Guide </h1>
 <h3>🔔Disclaimer</h3>
 <p>This repository holds the solution which can be used if you are stuck at somepoint don't copy it directly and paste the answer to the challenges.The owner is not responsible for any error.use solution  with concern</p>
 
